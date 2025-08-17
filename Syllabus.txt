@@ -1,0 +1,32 @@
+DAA (R-Mode) Topics – Course Outcome Wise Breakdown
+----------------------------------------------------
+
+---------------------------------------------------------------------
+CO - 1: Fundamentals and String Matching Definition of an Algorithm
+---------------------------------------------------------------------
+
+1. Algorithm Specification
+2. Space Complexity, Time Complexity of Algorithms
+3. Asymptotic Notations
+4. PRAM Algorithms:
+   • Merging
+   • Sorting
+5. Naïve String Matching Algorithm
+6. Rabin-Karp String Matching Algorithm
+7. Knuth-Morris-Pratt (KMP) Algorithm
+
+------------------------------------------------
+CO - 2: Divide and Conquer, Greedy Techniques
+------------------------------------------------
+
+8. Introduction to Divide and Conquer Method, Merge Sort
+9. Quick Sort
+10.Strassen’s Matrix Multiplication
+11.Convex Hull
+12.Greedy Method – Introduction
+13.Knapsack Problem
+14.Job Sequencing with Deadlines
+15. Minimum Cost Spanning Tree – Kruskal's Algorithm
+16. Minimum Cost Spanning Tree – Prim's Algorithm
+17.Huffman Coding
+18.Single Source Shortest Path Method
